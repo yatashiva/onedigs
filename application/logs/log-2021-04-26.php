@@ -1,0 +1,104 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-04-26 01:15:01 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 01:28:56 --> 404 Page Not Found: Indexphp/admin
+ERROR - 2021-04-26 02:17:38 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 02:17:39 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 02:17:39 --> Severity: Notice --> Undefined variable: rating /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 685
+ERROR - 2021-04-26 02:17:39 --> Severity: Notice --> Undefined variable: type /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 709
+ERROR - 2021-04-26 02:17:41 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 02:17:43 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 02:17:46 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 02:17:47 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 02:40:12 --> Severity: Notice --> Undefined variable: rating /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 685
+ERROR - 2021-04-26 02:40:12 --> Severity: Notice --> Undefined variable: type /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 709
+ERROR - 2021-04-26 02:40:14 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 02:40:29 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 02:40:29 --> Severity: Notice --> Undefined variable: rating /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 685
+ERROR - 2021-04-26 02:40:29 --> Severity: Notice --> Undefined variable: type /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 709
+ERROR - 2021-04-26 02:40:56 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 02:41:53 --> Severity: Notice --> Undefined variable: rating /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 685
+ERROR - 2021-04-26 02:41:53 --> Severity: Notice --> Undefined variable: type /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 709
+ERROR - 2021-04-26 02:41:55 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 02:42:00 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 02:42:00 --> Severity: Notice --> Undefined variable: rating /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 685
+ERROR - 2021-04-26 02:42:00 --> Severity: Notice --> Undefined variable: type /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 709
+ERROR - 2021-04-26 02:42:05 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 02:42:15 --> Severity: Notice --> Undefined index: id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/booking2.php 191
+ERROR - 2021-04-26 02:42:15 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 02:42:27 --> Severity: Notice --> Undefined index: id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/booking2.php 191
+ERROR - 2021-04-26 02:43:43 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 02:43:51 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 03:01:00 --> 404 Page Not Found: Indexphp/admin
+ERROR - 2021-04-26 03:01:03 --> Severity: Notice --> Undefined variable: reservations /home/u890042839/domains/olakite.com/public_html/application/views/reservation/index.php 86
+ERROR - 2021-04-26 03:01:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/u890042839/domains/olakite.com/public_html/application/views/reservation/index.php 86
+ERROR - 2021-04-26 03:14:13 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 05:53:50 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 05:53:52 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 05:54:03 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 05:54:57 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 05:55:11 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 05:55:14 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 05:55:28 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 05:55:36 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 05:56:53 --> 404 Page Not Found: Indexphp/admin
+ERROR - 2021-04-26 05:58:53 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 05:59:39 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 06:40:43 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 06:42:38 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 06:42:49 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 06:42:49 --> Severity: Notice --> Undefined variable: rating /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 685
+ERROR - 2021-04-26 06:42:49 --> Severity: Notice --> Undefined variable: type /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 709
+ERROR - 2021-04-26 06:43:21 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 06:43:47 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 12:45:34 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 13:10:10 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 13:20:07 --> Severity: Notice --> Undefined variable: rating /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 685
+ERROR - 2021-04-26 13:20:07 --> Severity: Notice --> Undefined variable: type /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 709
+ERROR - 2021-04-26 13:25:26 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 16:29:31 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 16:29:43 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 16:29:43 --> Severity: Notice --> Undefined variable: rating /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 685
+ERROR - 2021-04-26 16:29:43 --> Severity: Notice --> Undefined variable: type /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 709
+ERROR - 2021-04-26 16:29:49 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 16:50:21 --> 404 Page Not Found: Indexphp/admin
+ERROR - 2021-04-26 16:53:21 --> 404 Page Not Found: Indexphp/admin
+ERROR - 2021-04-26 16:56:30 --> Severity: Notice --> Undefined variable: rating /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 685
+ERROR - 2021-04-26 16:56:30 --> Severity: Notice --> Undefined variable: type /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 709
+ERROR - 2021-04-26 16:58:22 --> Severity: Notice --> Undefined variable: rating /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 685
+ERROR - 2021-04-26 16:58:22 --> Severity: Notice --> Undefined variable: type /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 709
+ERROR - 2021-04-26 16:58:34 --> Severity: Notice --> Undefined index: id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/booking2.php 191
+ERROR - 2021-04-26 17:53:03 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 17:53:05 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 18:19:03 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 18:20:44 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 18:20:44 --> Severity: Notice --> Undefined variable: rating /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 685
+ERROR - 2021-04-26 18:20:44 --> Severity: Notice --> Undefined variable: type /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 709
+ERROR - 2021-04-26 18:22:00 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 18:22:45 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 18:22:46 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642
+ERROR - 2021-04-26 18:22:53 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 18:22:53 --> Severity: Notice --> Undefined variable: rating /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 685
+ERROR - 2021-04-26 18:22:53 --> Severity: Notice --> Undefined variable: type /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 709
+ERROR - 2021-04-26 18:22:57 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 18:22:58 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 18:22:58 --> Severity: Notice --> Undefined variable: rating /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 685
+ERROR - 2021-04-26 18:22:58 --> Severity: Notice --> Undefined variable: type /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 709
+ERROR - 2021-04-26 18:23:06 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 18:23:15 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 18:23:15 --> Severity: Notice --> Undefined variable: rating /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 685
+ERROR - 2021-04-26 18:23:15 --> Severity: Notice --> Undefined variable: type /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 709
+ERROR - 2021-04-26 18:23:20 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 18:23:38 --> Severity: Notice --> Undefined index: id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/booking2.php 191
+ERROR - 2021-04-26 18:23:38 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 18:23:43 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 18:23:48 --> Severity: error --> Exception: Too few arguments to function Hotel::get_room_type_availability(), 4 passed in /home/u890042839/domains/olakite.com/public_html/system/core/CodeIgniter.php on line 532 and exactly 6 expected /home/u890042839/domains/olakite.com/public_html/application/controllers/Hotel.php 1146
+ERROR - 2021-04-26 18:24:38 --> Severity: Notice --> Undefined index: id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/booking2.php 191
+ERROR - 2021-04-26 18:24:38 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 18:24:51 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 18:24:51 --> Severity: Notice --> Undefined variable: rating /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 685
+ERROR - 2021-04-26 18:24:51 --> Severity: Notice --> Undefined variable: type /home/u890042839/domains/olakite.com/public_html/application/views/frontend/in.php 709
+ERROR - 2021-04-26 18:24:54 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 18:25:00 --> Severity: Notice --> Undefined index: id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/booking2.php 191
+ERROR - 2021-04-26 18:25:00 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/footer.php 485
+ERROR - 2021-04-26 23:03:50 --> Severity: Notice --> Undefined index: login_id /home/u890042839/domains/olakite.com/public_html/application/views/frontend/index.php 642

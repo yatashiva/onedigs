@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Habitplace</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Habit Place" />
+        <meta property="og:description" content="Hotel Bookings & Management" />
+        <meta property="og:url" id="og_url" content="http://www.Habitplace.com" />
+        <meta property="og:site_name" content="Hotel Bookings & Management" />
+        <meta property="og:image" content="http://159.65.152.153/habitplace/img/favicon.ico" />
+        <meta name="theme-color" content="#3ac4fa">
+
+
+    
+
+        <link rel="icon" href="img/favi.png" sizes="32x32">
+		
+        <!-- fontawesome -->
+		<link rel="stylesheet" href="css/font-awesome.css" />
+
+        <!-- bootstrap -->
+		<link rel="stylesheet" href="css/bootstrap.min.css" />
+
+        <!-- uikit -->
+        <link rel="stylesheet" href="css/uikit.min.css" />
+
+        <!-- animate -->
+        <link rel="stylesheet" href="css/animate.css" />
+        <link rel="stylesheet" href="css/datepicker.css" />
+        <!-- Owl carousel 2 css -->
+        <link rel="stylesheet" href="css/owl.carousel.css">
+        <!-- rev slider -->
+        <link rel="stylesheet" href="css/rev-slider/settings.css" />
+        <!-- lightslider -->
+        <link rel="stylesheet" href="css/lightslider.css">
+        <!-- Theme -->
+        <link rel="stylesheet" href="css/reset.css">
+        
+        <!-- custom css -->
+		<link rel="stylesheet" href="style.css" />
+        <!-- responsive -->
+        <link rel="stylesheet" href="css/responsive.css" />
+        <link rel="stylesheet" href="carouseller.css" />
+        
+    
+  
+        <link rel="stylesheet" href="jquery.scrolling-tabs.css">
+
+        <link rel="stylesheet" href="st-demo.css">
+    
+        
+
+<style>
+
+
+    * {
+      box-sizing: border-box;
+    }
+
+    .slider {
+        width: 50%;
+        margin: 100px auto;
+    }
+
+    .slick-slide {
+      margin: 0px 20px;
+    }
+
+    .slick-slide img {
+      width: 100%;
+    }
+
+    .slick-prev:before,
+    .slick-next:before {
+      color: black;
+    }
+
+
+    .slick-slide {
+      transition: all ease-in-out .3s;
+      opacity: .2;
+    }
+    
+    .slick-active {
+      opacity: .5;
+    }
+
+    .slick-current {
+      opacity: 1;
+    }
+
+    .progress-bar {
+        height:10px !important;
+        border-radius: 5px; 
+        background-color: #00a680 !important;
+}
+
+</style>
+
+    </head>
+    <body style=" font-family: 'Nunito', sans-serif; color: #404040; -webkit-font-smoothing: auto;">
+        
+    <!-- start header -->
+    <header class="header_area" style="background-color: #636363;box-shadow:0 3px 10px 0 rgba(0,0,0,0.2);z-index:999;">
+            <div class="container" style="padding: 1% 0px;">
+                <div class="col-md-6">
+                        <a id="brand" class="clearfix " href="index.html">
+                        <img class="img-responsive" src="img/footer-logo-one.png" alt="Trips">
+                    </a>
+                </div>
+                <div class="col-md-6 text-right float-right">
+                    <div class="col-md-6">
+                    </div>
+                    <div class="col-md-6">
+                            <div style="margin:8% auto;">
+                                    <a href="" data-toggle="modal" data-target="#login">Login </a>|
+                                    <a href="" data-toggle="modal" data-target="#signup">Sign Up </a>
+                            </div>
+                    </div>
+                </div>
+            
+            </div>
+                </header>
+                <!-- end header -->
+
+        <!-- start Booking -->  
+
+        <div class="container">
+                <div class="row" style="padding-top: 2%;padding-bottom: 2%;">
+                    <div class="col-md-6">
+                        <span style="font-size: 20px !important;font-weight: 400"> Pearl Of Taj Homestay</span>  <span style="color:#f5a623;">  <i class="fa fa-star"></i>  <i class="fa fa-star"></i>  <i class="fa fa-star"></i></span> &nbsp;&nbsp;&nbsp; <br>
+                        <span style="font-size: 14px;color:grey;">HIG A-21, APHB Colony, Opp. DLF Gate-2, Gachibowli, Hyderabad, Hitech City</span>
+                    </div>
+                    
+                    <div class="col-md-1">
+
+                    </div>
+                    <div class="col-md-5 float-right" style="padding-top: 2%;">
+                        
+                    <div class="col-md-6 " style="border-right:1px solid lightgray;">
+                            <span style="font-size: 14px;margin-top: 20px;">17 May - 18 May 2018 </span><span style="font-size: 12px;">( 1 night )</span>
+                        </div>
+                    <div class="col-md-6 ">
+                        
+                        <span style="font-size: 14px;margin-top: 20px;">1 Guest - 1 Room</span>
+                    </div>
+                    </div>
+                    
+                   
+               </div>
+               <div class="row"  style="padding-top: 2%;">
+                   <div class="col-md-6" >
+                        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                                <!-- Indicators -->
+                                <ol class="carousel-indicators">
+                                  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                  <li data-target="#myCarousel" data-slide-to="1"></li>
+                                  <li data-target="#myCarousel" data-slide-to="2"></li>
+                                </ol>
+                              
+                                <!-- Wrapper for slides -->
+                                <div class="carousel-inner">
+                                  <div class="item active">
+                                    <img src="img/222.jpg" alt="Los Angeles">
+                                  </div>
+                              
+                                  <div class="item">
+                                    <img src="img/111.jpg" alt="Chicago">
+                                  </div>
+                              
+                                  <div class="item">
+                                    <img src="img/333.jpg" alt="New York">
+                                  </div>
+                                </div>
+                              
+                                <!-- Left and right controls -->
+                                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                                  <span class="glyphicon glyphicon-chevron-left"></span>
+                                  <span class="sr-only">Previous</span>
+                                </a>
+                                <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                                  <span class="glyphicon glyphicon-chevron-right"></span>
+                                  <span class="sr-only">Next</span>
+                                </a>
+                        </div>
+
+                   </div>
+
+                   <div class="col-md-6" >
+
+                        <div class="row" style="padding-top:3%">
+                            <div class="col-md-12">
+                                        
+                                    <div  >
+
+
+
+                                            <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                            <defs>
+                                            <symbol id="icon-point-left" viewBox="0 0 1792 1792">
+                                            <title>point-left</title>
+                                            <path d="M1427 301l-531 531 531 531q19 19 19 45t-19 45l-166 166q-19 19-45 19t-45-19l-742-742q-19-19-19-45t19-45l742-742q19-19 45-19t45 19l166 166q19 19 19 45t-19 45z"></path>
+                                            </symbol>
+                                            <symbol id="icon-point-right" viewBox="0 0 1792 1792">
+                                            <title>point-right</title>
+                                           
+                                            <path d="M1363 877l-742 742q-19 19-45 19t-45-19l-166-166q-19-19-19-45t19-45l531-531-531-531q-19-19-19-45t19-45l166-166q19-19 45-19t45 19l742 742q19 19 19 45t-19 45z"></path>
+                                            </symbol>
+                                            </defs>
+                                            </svg>
+  
+                             <!-- Nav tabs -->
+                                            <ul class="nav nav-tabs" role="tablist">
+                                            <li role="presentation" class="active">
+                                                <a href="#tab1" role="tab" data-toggle="tab">
+                                                        <h5 class="text-center">Executive Room</h5>
+                                                        <p class="text-center">From ₹ 660</p>
+                                                </a>
+                                            </li>
+                                              <li role="presentation">
+                                                  <a href="#tab2" role="tab" data-toggle="tab">
+                                                        <h5 class="text-center">Deluxe Room</h5>
+                                                        <p class="text-center">From ₹ 660</p>
+                                                </a>
+                                            </li>
+                                            <li role="presentation">
+                                                <a href="#tab3" role="tab" data-toggle="tab">
+                                                        <h5 class="text-center">Deluxe</h5>
+                                                        <p class="text-center">From ₹ 660</p>
+                                                </a>
+                                            </li>
+                                            <li role="presentation">
+                                                <a href="#tab4" role="tab" data-toggle="tab">
+                                                        <h5 class="text-center">Standard A/C</h5>
+                                                        <p class="text-center">From ₹ 660</p>
+                                                </a>
+                                            </li>
+                                            <li role="presentation">
+                                                <a href="#tab5" role="tab" data-toggle="tab">
+                                                        <h5 class="text-center">Suite</h5>
+                                                        <p class="text-center">From ₹ 660</p>
+                                                </a>
+                                            </li>
+                                            <li role="presentation">
+                                                <a href="#tab6" role="tab" data-toggle="tab">
+                                                        <h5 class="text-center">Funtion Hall</h5>
+                                                        <p class="text-center">From ₹ 660</p>
+                                                </a>
+                                            </li>
+                                          
+                                            </ul>
+                                        
+                                            <!-- Tab panes -->
+                                            <div class="tab-content">
+                                              <div role="tabpanel" class="tab-pane active" id="tab1">
+                                                   
+                                                    <div class="row" style="padding-top:3%">
+                                                            <div class="col-md-9">
+                                                                <span style="font-size: 18px !important;">Executive Room</span><br>
+                                                                <span style="font-size: 14px;color:grey;">Amenities: Toiletries, Air Conditioning,
+                                                                   Telephone, <a style="color:#0073cf"  href="">More</a></span>
+                                                            </div>
+                                                            <div class="col-md-3 pull-right" style="margin-top: 2%;">
+                                                                <span style="font-size: 18px !important;"> From &#8377; 3,851</span> &nbsp;&nbsp;&nbsp;
+                                                            </div>
+                                                    </div>
+                            
+                                                    <div class="row" style="border-bottom:1px solid lightgray;padding: 20px 0px;">
+                                                            <div class="col-md-9">
+                                                                <input type="radio" name="optradio">
+                                                                <span style="padding-left:15px;font-size: 14px !important;padding-top: 4%;">Executive Room Only </span>
+                                                                <span style="color: #29b387;font-size: 13px !important;"><b>15% off</b></span>
+                                                            </div>
+                                                            <div class="col-md-3 ">
+                                                                    <strike><span style="font-size: 16px;color: grey;">₹ 1,500 </span>  </strike> &nbsp;<span>₹ 3,851</span>
+                                                            </div>
+                                                    </div>
+                            
+                                                    <div class="row" style="border-bottom:1px solid lightgray;padding: 20px 0px;">
+                                                            <div class="col-md-9">
+                                                                    <input type="radio" name="optradio">
+                                                                    <span style="padding-left:15px;font-size: 14px !important;padding-top: 4%;">Executive Room Only </span>
+                                                                    <span style="color: #29b387;font-size: 13px !important;"><b>35% off</b></span>
+                                                            </div>
+                                                            <div class="col-md-3 ">
+                                                                    <strike><span style="font-size: 16px;color: grey;">₹ 1,500 </span>  </strike> &nbsp;<span>₹ 4,201</span>
+                                                            </div>
+                                                    </div>
+                                                   
+                                                    <div class="row" style="padding: 20px 0px;">
+                                                            
+                                                            <div class="col-md-3 ">
+                                                                    <strike><span style="font-size: 16px;color: grey;">₹ 1,500 </span>  </strike> <br><span style="font-size: 12px;">Per Room/Night</span>
+                                                            </div>
+                                                            <div class="col-md-6">
+                            
+                                                            </div>
+                                                            <div class="col-md-3 text-center">
+                                                                    <a href="booking2.html" style="padding: 10px 20px;background-color:#8dc53f;color: white;border: 1px solid #8dc53f;border-radius: 5px;">Continue </a>
+                                                                </div>
+                                           
+                                                    </div>
+
+
+
+
+
+
+                                              </div>
+                                              <div role="tabpanel" class="tab-pane" id="tab2">
+                                                    <div class="row" style="padding-top:3%">
+                                                            <div class="col-md-9">
+                                                                <span style="font-size: 18px !important;">Deluxe Room</span><br>
+                                                                <span style="font-size: 14px;color:grey;">Amenities: Toiletries, Air Conditioning,
+                                                                   Telephone, <a style="color:#0073cf"  href="">More</a></span>
+                                                            </div>
+                                                            <div class="col-md-3 pull-right" style="margin-top: 2%;">
+                                                                <span style="font-size: 18px !important;"> From &#8377; 3,851</span> &nbsp;&nbsp;&nbsp;
+                                                            </div>
+                                                    </div>
+                            
+                                                    <div class="row" style="border-bottom:1px solid lightgray;padding: 20px 0px;">
+                                                            <div class="col-md-9">
+                                                                <input type="radio" name="optradio">
+                                                                <span style="padding-left:15px;font-size: 14px !important;padding-top: 4%;">Deluxe Room Only </span>
+                                                                <span style="color: #29b387;font-size: 13px !important;"><b>15% off</b></span>
+                                                            </div>
+                                                            <div class="col-md-3 ">
+                                                                    <strike><span style="font-size: 16px;color: grey;">₹ 1,500 </span>  </strike> &nbsp;<span>₹ 3,851</span>
+                                                            </div>
+                                                    </div>
+                            
+                                                    <div class="row" style="border-bottom:1px solid lightgray;padding: 20px 0px;">
+                                                            <div class="col-md-9">
+                                                                    <input type="radio" name="optradio">
+                                                                    <span style="padding-left:15px;font-size: 14px !important;padding-top: 4%;">Deluxe Room Only </span>
+                                                                    <span style="color: #29b387;font-size: 13px !important;"><b>35% off</b></span>
+                                                            </div>
+                                                            <div class="col-md-3 ">
+                                                                    <strike><span style="font-size: 16px;color: grey;">₹ 1,500 </span>  </strike> &nbsp;<span>₹ 4,201</span>
+                                                            </div>
+                                                    </div>
+                                                   
+                                                    <div class="row" style="padding: 20px 0px;">
+                                                            
+                                                            <div class="col-md-3 ">
+                                                                    <strike><span style="font-size: 16px;color: grey;">₹ 1,500 </span>  </strike> <br><span style="font-size: 12px;">Per Room/Night</span>
+                                                            </div>
+                                                            <div class="col-md-6">
+                            
+                                                            </div>
+                                                            <div class="col-md-3 text-center">
+                                                                    <a href="booking2.html" style="padding: 10px 20px;background-color:#8dc53f;color: white;border: 1px solid #8dc53f;border-radius: 5px;">Continue </a>
+                                                                </div>
+                                           
+                                                    </div>
+                                              </div>
+                                              <div role="tabpanel" class="tab-pane" id="tab3">Tab 3 content...</div>
+                                              <div role="tabpanel" class="tab-pane" id="tab4">Tab 4 content...</div>
+                                              <div role="tabpanel" class="tab-pane" id="tab5">Tab 5 content...</div>
+                                              <div role="tabpanel" class="tab-pane" id="tab6">Tab 6 content...</div>
+                                              <div role="tabpanel" class="tab-pane" id="tab7">Tab 7 content...</div>
+                                              <div role="tabpanel" class="tab-pane" id="tab8">Tab 8 content...</div>
+                                              <div role="tabpanel" class="tab-pane" id="tab9">Tab 9 content...</div>
+                                              <div role="tabpanel" class="tab-pane" id="tab10">Tab 10 content...</div>
+                                            </div>
+                                        
+                                        </div>
+                          
+
+                        </div>
+
+                     
+                        </div>
+
+                    </div>
+               </div>
+
+               <hr>
+
+               <div class="container">
+               <div class="row">
+
+                    <div class="col-md-6" style="border-right: 1px solid lightgray">
+
+                        <h5> Ratings </h5>
+                        <br>
+
+                        <div class="row">
+                            <div class="col-md-2">
+                                <P style="font-size:14px;"> Excellent</P>
+                            
+                            </div>
+                            <div class="col-md-5">
+                                <div class="progress" style="height:10px !important;background-color: transparent;">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-2">
+                                <p>3</p>
+                            </div>
+                         </div>
+
+                         <div class="row">
+                                <div class="col-md-2">
+                                    <P style="font-size:14px;"> Good</P>
+                                
+                                </div>
+                                <div class="col-md-5">
+                                    <div class="progress" style="height:10px !important;background-color: transparent;">
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <p>3</p>
+                                </div>
+                             </div>
+
+
+                       
+                  
+                                 <div class="row">
+                                        <div class="col-md-2">
+                                            <P style="font-size:14px;"> Poor</P>
+                                        
+                                        </div>
+                                        <div class="col-md-5">
+                                            <div class="progress" style="height:10px !important;background-color: transparent;">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:60%">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-2">
+                                            <p>3</p>
+                                        </div>
+                                     </div>
+
+                                     <div class="row">
+                                            <div class="col-md-2">
+                                                <P style="font-size:14px;"> Terrible</P>
+                                            
+                                            </div>
+                                            <div class="col-md-5">
+                                                <div class="progress" style="height:10px !important;background-color: transparent;">
+                                                    <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:85%">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-2">
+                                                <p>3</p>
+                                            </div>
+                                         </div>
+
+                       
+                        
+
+                             <div class="btn6" style="margin: 2% 0px;;">
+                                    <span style="  font-size: 12px;  padding: 4px  7px !important;border: 1px solid #ebebeb !important;border-radius: 5px;">Couples</span>
+                                    <span style="  font-size: 12px;  padding: 4px  7px !important;border: 1px solid #ebebeb !important;border-radius: 5px;">Solo Travel</span>
+                                    <span style="  font-size: 12px;  padding: 4px  7px !important;border: 1px solid #ebebeb !important;border-radius: 5px;">Family</span>
+                             </div>
+                             
+                             <div>
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d122103.60435035147!2d81.73631691031517!3d16.987450917389637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a37a3f2440c9fff%3A0x86b24503e305ca21!2sRajahmundry%2C+Andhra+Pradesh!5e0!3m2!1sen!2sin!4v1528279281971" width="500" height="100" frameborder="0" style="border:0" allowfullscreen></iframe>
+                             </div>
+                              
+            
+                        </div>
+
+                        <div class="col-md-6">
+                                <h5> Hotel Amenities  </h5>
+                                <br>
+                           
+                                <div class="col-md-4" style="padding: 10px 20px;">
+                                   <div style="margin:10% 0px;">
+                                        <i class="fa fa-wifi"></i> <span style="font-size: 14px;padding-left:5px;"> Internet Access</span>
+                                   </div> 
+                                   <div style="margin:10% 0px;">
+                                        <i class="fa fa-lightbulb-o"></i> <span style="font-size: 14px;padding-left:15px;"> Power Backup</span>
+                                   </div> 
+                                   <div style="margin:10% 0px;">
+                                        <i class="fa fa-car"></i> <span style="font-size: 14px;padding-left:5px;"> Parking Facilities </span>
+                                   </div> 
+                                </div>
+
+                                <div class="col-md-4" style="padding: 10px 20px;">
+                                        <div style="margin:10% 0px;">
+                                             <i class="fa fa-wifi"></i> <span style="font-size: 14px;padding-left:5px;"> Internet Access</span>
+                                        </div> 
+                                        <div style="margin:10% 0px;">
+                                             <i class="fa fa-lightbulb-o"></i> <span style="font-size: 14px;padding-left:15px;"> Power Backup</span>
+                                        </div> 
+                                        <div style="margin:10% 0px;">
+                                             <i class="fa fa-car"></i> <span style="font-size: 14px;padding-left:5px;"> Parking Facilities </span>
+                                        </div> 
+                                     </div>
+
+                                     <div class="col-md-4" style="padding: 10px 20px;">
+                                            <div style="margin:10% 0px;">
+                                                 <i class="fa fa-wifi"></i> <span style="font-size: 14px;padding-left:5px;"> Internet Access</span>
+                                            </div> 
+                                            <div style="margin:10% 0px;">
+                                                 <i class="fa fa-lightbulb-o"></i> <span style="font-size: 14px;padding-left:15px;"> Power Backup</span>
+                                            </div> 
+                                            <div style="margin:10% 0px;">
+                                                 <i class="fa fa-car"></i> <span style="font-size: 14px;padding-left:5px;"> Parking Facilities </span>
+                                            </div> 
+                                         </div>
+
+                                        <div class="col-md-12">
+                                            <p>Booking Policy</p>
+                                            <p style="font-size:12px;">Check-in Time is 12:00 pm, <br>Check-out Time is 11:00 am.</p>
+                                            <p style="font-size:12px;"> Your booking might be declined basis 'not having valid proof of marriage for couple stay' or 'having same city ID proof' as per hotels guidelines</p>
+                                            
+                                        </div>
+
+
+
+                        </div>
+                        </div>
+
+               </div>
+
+
+
+
+
+        </div>
+
+
+
+ <!-- start footer -->
+ <footer class="footer_area">
+        <div class="container">
+
+            <div class="footer">
+
+<div class="footer_top padding-top-40 clearfix">
+
+<div class="col-lg-4 col-md-4 col-sm-4">
+    <div class="row">
+        <div class="footer_widget clearfix">
+            <h5 class="padding-left-15">Follow Us</h5>
+            <div class="col-lg-12 col-md-12 col-sm-6">
+                <a target="_blank" href="http://www.facebook.com/">
+                    <i style="font-size:35px;padding-left: 10px;" class="fa fa-facebook-f"></i>
+                </a>
+                <a target="_blank" href="http://twitter.com/" class="fl padR10" title="Twitter" data-reactid="298">
+                    <i style="font-size:35px;padding-left: 10px;" class="fa fa-twitter"></i>
+                </a>
+                <a target="_blank" href="http://www.youtube.com/" class="fl padR10" title="youtube" data-reactid="300">
+                    <i style="font-size:35px;padding-left: 10px;" class="fa fa-youtube"></i>
+                </a>
+
+                <p style="color:lightgrey">Book Hotels faster.
+                    <br> Download our mobile Apps</p>
+
+                    <div class="col-md-6  col-xs-12">
+                    <div class="row">
+                            <a target="_blank" href="https://play.google.com/store">
+                                <img class=" storeIcon" src="img/Google_play.png">
+                            </a>
+                        </div>
+                        </div>
+                    <div class="col-md-6 col-xs-12">
+                            <a target="_blank" href="https://www.apple.com/itunes/">
+                                <img class="  storeIcon" src="img/App-Store.png">
+                            </a>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-lg-4 col-md-4 col-sm-4">
+<div class="row">
+    <div class="footer_widget clearfix">
+        <h5 class="padding-left-15">Quick Links</h5>
+        <div class="col-lg-6 col-md-6 col-sm-6">
+            <ul>
+                <li>
+                    <a href="#">About us</a>
+                </li>
+                <li>
+                    <a href="#">Careers</a>
+                </li>
+                <li>
+                    <a href="#">Terms of services</a>
+                </li>
+                <li>
+                    <a href="#">Privacy policy </a>
+                </li>
+                <li>
+                    <a href="#">Feedback</a>
+                </li>
+            </ul>
+        </div>
+        <div class="col-lg-6 col-md-6 sol-sm-6">
+            <ul>
+               
+                <li>
+                    <a href="#">Join our network</a>
+                </li>
+                <li>
+                    <a href="#">Corporate</a>
+                </li>
+                <li>
+                    <a href="#">Travel agents </a>
+                </li>
+                <li>
+                    <a href="#">Weddings</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-4 col-sm-4">
+    <div class="footer_widget">
+        <h5>We Are Global</h5>
+        <div class="footer_map">
+            <a href="#">
+                <img src="img/footer-map-two.png" alt="">
+            </a>
+        </div>
+    </div>
+</div>
+
+</div>
+
+                <div class="row">
+                    <div class="container">
+                        <div class="footer_copyright margin-tb-30 content-center">
+                            <p>© 2018
+                                <a href="#">Habit Place</a>. All rights reserved</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </footer>
+    <!-- end footer -->
+
+        <div id="login" class="modal fade" role="dialog">
+                <div class="modal-dialog">
+              
+                  <!-- Modal content-->
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal">&times;</button>
+                      <h4 class="modal-title">Login</h4>
+                    </div>
+                    <div class="modal-body">
+                      <!-- <p>Some text in the modal.</p> -->
+                      <form>
+                            Enter Email Id or Mobile Number
+                          <input type="text" class="form-control" value="Enter here" />
+                          <br>
+                          <input type="checkbox" > Remember Me <br>
+                          <br>
+                          <input type="submit" value="Login" class="btn btn-default">
+                      </form>
+                    </div>
+                    <!-- <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div> -->
+                  </div>
+              
+                </div>
+              </div>
+    
+    
+              <div id="signup" class="modal fade" role="dialog">
+                    <div class="modal-dialog">
+                  
+                      <!-- Modal content-->
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <button type="button" class="close" data-dismiss="modal">&times;</button>
+                          <h4 class="modal-title">Create Account</h4>
+                        </div>
+                        <div class="modal-body">
+                          <!-- <p>Some text in the modal.</p> -->
+                          <form>
+                                Enter Mobile Number
+                              <input type="text" class="form-control" value="Enter Mobile number" />
+                                <br>
+                              Enter Email Id(Optional)
+                              <input type="text" class="form-control" value="Your Email Id(Optional)" />
+                              <br>
+                              <!-- <input type="checkbox" > Remember Me  -->
+                              <br>
+                              <input type="submit" value="Create Account" class="btn btn-default center-block">
+                              <br>
+                              <a href="" style="color: blue" class="center-block text-center">Terms and Conditions*</a>
+                          </form>
+                        </div>
+                        <div class="modal-footer">
+                          <!-- <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> -->
+                          <div class="text-center">
+                          Already have a Account? <a href="" data-toggle="modal" data-target="#login" style="color: blue">Login Now</a>
+                          </div>
+                        </div>
+                      </div>
+                  
+                    </div>
+                  </div>
+		
+		
+		
+        <!-- jquery library -->
+        <!-- <script src="js/vendor/jquery-1.11.2.min.js"></script> -->
+        <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+        <!-- bootstrap -->
+        <script src="js/bootstrap.min.js"></script>
+		<!-- rev slider -->
+        <script src="js/rev-slider/rs-plugin/jquery.themepunch.plugins.min.js"></script>
+        <script src="js/rev-slider/rs-plugin/jquery.themepunch.revolution.js"></script>
+        <script src="js/rev-slider/rs.home.js"></script>
+        <!-- uikit -->
+        <script src="js/uikit.min.js"></script>
+        <!-- easing -->
+		<script src="js/jquery.easing.1.3.min.js"></script>
+        <script src="js/datepicker.js"></script>
+        <!-- scroll up -->
+        <script src="js/jquery.scrollUp.min.js"></script>
+        <!-- owlcarousel -->
+        <script src="js/owl.carousel.min.js"></script>
+        <!-- lightslider -->
+        <script src="js/lightslider.js"></script>
+        
+        <!-- wow Animation -->
+        <script src="js/wow.min.js"></script>
+
+        <script src="carouseller.js"></script>
+        <!--Activating WOW Animation only for modern browser-->
+        <!--[if !IE]><!-->
+        <script type="text/javascript">new WOW().init();</script>
+        <!--<![endif]-->
+
+
+        <!-- my js -->
+        <script src="js/main.js"></script>
+
+        <script src="jquery.scrolling-tabs.js"></script>
+
+        <script src="st-demo.js"></script>
+
+    </body>
+
+</html>
