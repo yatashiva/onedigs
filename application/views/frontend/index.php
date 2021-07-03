@@ -7,8 +7,8 @@
     position: relative;
     padding: 0;
     overflow: hidden;
-    height: 60%;
-    margin-bottom: 200px;
+    height: 52%;
+    margin-bottom: 45px;
 }
 .form-control {
     display: block;
@@ -55,6 +55,127 @@
 #flinks,li {
   float: left;
 }
+.best_serv{
+    width: 1152px;
+    display: table;
+    content: "";
+    clear: both;
+    margin: 21px auto 0;
+    margin-bottom:50px;
+}
+.serv-1{
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 90px;
+    padding-right: 76px;
+    background-image: url(/assets/home/price_guarantee.png);
+    border: 1px solid #E5F1EE;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.serv-1 img{
+    left: 32px;
+    width: 32px;
+    height: 34px;
+    top: 50%;
+    margin-top: -17px;
+}
+.best_serv .serv-1{
+    display: inline;
+}
+.item_2 .content_serv > h5{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 12px;
+    text-align: center;
+    color: #111111;
+    text-align: left;
+}
+.item_2 .content_serv > p{
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #212121;
+}
+
+
+.item_4 .content_serv > h5{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 12px;
+    text-align: center;
+    color: #111111;
+    text-align: left;
+}
+.item_4 .content_serv > p{
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #212121;
+}
+.best_serv .serv-1{
+    float: left;
+    width: 564px;
+    height: 76px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-position: center right;
+    -webkit-background-size: contain;
+    background-size: contain;
+    border: 1px solid #e5f1ee;
+    border-radius: 4px;
+    position: relative;
+    background-color: #fff;
+    display: block;
+}
+.serv-1 .content_serv{
+    display: inline;
+}
+.serv-1 img{
+    margin-right: 20px;
+    position: absolute;
+}
+
+.best_serv .serv-2{
+    float: right;
+    width: 564px;
+    height: 76px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-position: center right;
+    -webkit-background-size: contain;
+    background-size: contain;
+    border: 1px solid #e5f1ee;
+    border-radius: 4px;
+    position: relative;
+    background-color: #fff;
+    display: block;
+}
+.item_4{
+    float: left;
+    padding-top: 21px;
+    padding-bottom: 19px;
+    padding-left: 94px;
+    padding-right: 50px;
+    /* background-image: url(/assets/home/price_guarantee.png); */
+}
+.item_4 img{
+    left: 32px;
+    width: 31px;
+    height: 31px;
+    top: 50%;
+    margin-top: -15px;
+}
+.serv-2 .content_serv{
+    display: inline;
+}
+.serv-2 img{
+    margin-right: 20px;
+    position: absolute;
+}
+
 @media screen and (max-width: 800px) {
     #mhide {
         display:none;
@@ -62,15 +183,15 @@
 }
 </style>
 
-    <div class="fullwidthbanner-container" style="overflow-y: hidden;">
+    <div class="fullwidthbanner-container" style="">
 
-        <div class="" style="background-color: #fff;height:100%;z-index: -999;">
+        <div class="" style="background-color: #fff;height:100%;z-index: 999;background-image:url('<?php echo base_url();?>assets/frontend/img/bn_1.png')">
             <!-- start main slider -->
 <center><img class="img-fluid" width="250px" src="https://res.cloudinary.com/mallinamala/image/upload/v1618949600/ola_kite_logo_copy_ujqxcx.png">
 
 </center>
             <!-- start hotel booking -->
-            <div class="hotel_booking_area" style="padding-top:5%;">
+            <div class="hotel_booking_area" style="padding-top:1%;">
                 <!--<br>-->
 <center><h2 style="font-family:Open Sans;font-weight:600">Search for Hotels</h2></center>
                 <br>
@@ -217,7 +338,29 @@ border-bottom-right-radius:6px;">
     </div>
     <!-- end main slider -->
 <?php //$this->load->view('frontend/destination');?>
-
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="best_serv">
+                <a href="" class="serv-1 item_2">
+                    <img src="<?php echo base_url();?>assets/frontend/img/price.png" alt="">
+                    <div class="content_serv">
+                        <h5>BEST PRICE GUARANTEED</h5>
+                        <p>Find a lower price? We'll refund you 100% of the difference.</p>
+                    </div>
+                </a>
+                <a href="" class="serv-2 item_4">
+                    <img src="<?php echo base_url();?>assets/frontend/img/time.png" alt="">
+                    <div class="content_serv">
+                        <h5>BEST PRICE GUARANTEED</h5>
+                        <p>Find a lower price? We'll refund you 100% of the difference.</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="col-md-6"></div>
+    </div>
+</div>
  <!-- start footer -->
 <footer class="footer_area"  style="padding: 10px 0px;
    background: #f1f1f1;border-top: 1px solid #ddd;

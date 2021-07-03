@@ -287,3 +287,133 @@ ERROR - 2021-07-03 19:35:08 --> Severity: Notice --> Undefined variable: address
 ERROR - 2021-07-03 19:35:08 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\footer.php 626
 ERROR - 2021-07-03 19:36:28 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
 ERROR - 2021-07-03 19:36:28 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 836
+ERROR - 2021-07-03 20:11:05 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:11:05 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 836
+ERROR - 2021-07-03 20:11:52 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:11:52 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 836
+ERROR - 2021-07-03 20:12:43 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:12:43 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 836
+ERROR - 2021-07-03 20:14:18 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:14:18 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 836
+ERROR - 2021-07-03 20:15:17 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:15:17 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 836
+ERROR - 2021-07-03 20:16:42 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:16:42 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 836
+ERROR - 2021-07-03 20:16:58 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:16:58 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 836
+ERROR - 2021-07-03 20:18:24 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:18:24 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 836
+ERROR - 2021-07-03 20:18:56 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:18:56 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 836
+ERROR - 2021-07-03 20:19:00 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:19:00 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 836
+ERROR - 2021-07-03 20:19:39 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:19:39 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 836
+ERROR - 2021-07-03 20:20:00 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:20:00 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 836
+ERROR - 2021-07-03 20:20:27 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:20:27 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 836
+ERROR - 2021-07-03 20:20:28 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:20:28 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 836
+ERROR - 2021-07-03 20:22:10 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:22:10 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 836
+ERROR - 2021-07-03 20:23:25 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:23:25 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 836
+ERROR - 2021-07-03 20:23:56 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:23:56 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 836
+ERROR - 2021-07-03 20:25:12 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:25:12 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 843
+ERROR - 2021-07-03 20:32:44 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:32:44 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 849
+ERROR - 2021-07-03 20:34:01 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 203
+ERROR - 2021-07-03 20:34:01 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 849
+ERROR - 2021-07-03 20:35:49 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 210
+ERROR - 2021-07-03 20:35:49 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 856
+ERROR - 2021-07-03 20:35:52 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 210
+ERROR - 2021-07-03 20:35:52 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 856
+ERROR - 2021-07-03 20:38:06 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 221
+ERROR - 2021-07-03 20:38:06 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 867
+ERROR - 2021-07-03 20:39:14 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 224
+ERROR - 2021-07-03 20:39:14 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 870
+ERROR - 2021-07-03 20:41:17 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 224
+ERROR - 2021-07-03 20:41:17 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 872
+ERROR - 2021-07-03 20:43:43 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 224
+ERROR - 2021-07-03 20:43:43 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 872
+ERROR - 2021-07-03 20:44:34 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 224
+ERROR - 2021-07-03 20:44:34 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 872
+ERROR - 2021-07-03 20:47:37 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 235
+ERROR - 2021-07-03 20:47:37 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 883
+ERROR - 2021-07-03 20:52:35 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 253
+ERROR - 2021-07-03 20:52:35 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 901
+ERROR - 2021-07-03 20:58:22 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 253
+ERROR - 2021-07-03 20:58:22 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 901
+ERROR - 2021-07-03 20:58:26 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 253
+ERROR - 2021-07-03 20:58:26 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 901
+ERROR - 2021-07-03 20:58:42 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 253
+ERROR - 2021-07-03 20:58:42 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 901
+ERROR - 2021-07-03 21:01:02 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 241
+ERROR - 2021-07-03 21:01:02 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 889
+ERROR - 2021-07-03 21:01:04 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 241
+ERROR - 2021-07-03 21:01:04 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 889
+ERROR - 2021-07-03 21:01:06 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 241
+ERROR - 2021-07-03 21:01:06 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 889
+ERROR - 2021-07-03 21:02:05 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 245
+ERROR - 2021-07-03 21:02:05 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 893
+ERROR - 2021-07-03 21:03:54 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 242
+ERROR - 2021-07-03 21:03:54 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 890
+ERROR - 2021-07-03 21:05:09 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 247
+ERROR - 2021-07-03 21:05:09 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 895
+ERROR - 2021-07-03 21:06:30 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 262
+ERROR - 2021-07-03 21:06:30 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 910
+ERROR - 2021-07-03 21:08:09 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 264
+ERROR - 2021-07-03 21:08:09 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 912
+ERROR - 2021-07-03 21:10:06 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 269
+ERROR - 2021-07-03 21:10:06 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 917
+ERROR - 2021-07-03 21:10:53 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 270
+ERROR - 2021-07-03 21:10:53 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 918
+ERROR - 2021-07-03 21:12:46 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 272
+ERROR - 2021-07-03 21:12:46 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 920
+ERROR - 2021-07-03 21:12:51 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 272
+ERROR - 2021-07-03 21:12:51 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 920
+ERROR - 2021-07-03 21:16:45 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 269
+ERROR - 2021-07-03 21:16:45 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 917
+ERROR - 2021-07-03 21:17:02 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 269
+ERROR - 2021-07-03 21:17:02 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 924
+ERROR - 2021-07-03 21:20:38 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 277
+ERROR - 2021-07-03 21:20:38 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 932
+ERROR - 2021-07-03 21:21:07 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 277
+ERROR - 2021-07-03 21:21:07 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 932
+ERROR - 2021-07-03 21:22:20 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 291
+ERROR - 2021-07-03 21:22:20 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 946
+ERROR - 2021-07-03 21:24:30 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 316
+ERROR - 2021-07-03 21:24:30 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 971
+ERROR - 2021-07-03 21:24:33 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 316
+ERROR - 2021-07-03 21:24:33 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 971
+ERROR - 2021-07-03 21:24:56 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 316
+ERROR - 2021-07-03 21:24:56 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 971
+ERROR - 2021-07-03 21:25:44 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 316
+ERROR - 2021-07-03 21:25:44 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 971
+ERROR - 2021-07-03 21:28:22 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 309
+ERROR - 2021-07-03 21:28:22 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 964
+ERROR - 2021-07-03 21:29:04 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 317
+ERROR - 2021-07-03 21:29:04 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 972
+ERROR - 2021-07-03 21:29:54 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 316
+ERROR - 2021-07-03 21:29:54 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 971
+ERROR - 2021-07-03 21:30:16 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 324
+ERROR - 2021-07-03 21:30:16 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 979
+ERROR - 2021-07-03 21:31:02 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 324
+ERROR - 2021-07-03 21:31:02 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 979
+ERROR - 2021-07-03 21:32:08 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 324
+ERROR - 2021-07-03 21:32:08 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 979
+ERROR - 2021-07-03 21:35:25 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 324
+ERROR - 2021-07-03 21:35:25 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 979
+ERROR - 2021-07-03 21:35:51 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 324
+ERROR - 2021-07-03 21:35:51 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 979
+ERROR - 2021-07-03 21:36:18 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 324
+ERROR - 2021-07-03 21:36:18 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 979
+ERROR - 2021-07-03 21:37:03 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 324
+ERROR - 2021-07-03 21:37:03 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 979
+ERROR - 2021-07-03 21:38:52 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 324
+ERROR - 2021-07-03 21:38:52 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 979
+ERROR - 2021-07-03 21:39:54 --> Severity: Warning --> Use of undefined constant Lo - assumed 'Lo' (this will throw an Error in a future version of PHP) D:\xampp\htdocs\onedigs\application\views\frontend\index.php 324
+ERROR - 2021-07-03 21:39:54 --> Severity: Notice --> Undefined index: login_id D:\xampp\htdocs\onedigs\application\views\frontend\index.php 979
